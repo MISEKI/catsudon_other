@@ -1,5 +1,6 @@
 {
 	"kind": "SampleWorldList",
+	"index": 1,
 	"worlds": [
 		{
 			"name": "Bar",
