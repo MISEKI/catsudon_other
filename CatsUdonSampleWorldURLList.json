@@ -4,115 +4,115 @@
 	"worlds": [
 		{
 			"name": "Bar",
-			"saveurl": "https://catsudon.net/wp-json/my-api/v1/save-data?load_id=967"
+			"worldsavestr": "https://catsudon.net/wp-json/my-api/v1/save-data?load_id=967"
 		},
 		{
 			"name": "Neo Bar",
-			"saveurl": "https://catsudon.net/wp-json/my-api/v1/save-data?load_id=970"
+			"worldsavestr": "https://catsudon.net/wp-json/my-api/v1/save-data?load_id=970"
 		},
 		{
 			"name": "大聖堂",
-			"saveurl": "https://catsudon.net/wp-json/my-api/v1/save-data?load_id=972"
+			"worldsavestr": "https://catsudon.net/wp-json/my-api/v1/save-data?load_id=972"
 		},
 		{
 			"name": "コロセウム",
-			"saveurl": "https://catsudon.net/wp-json/my-api/v1/save-data?load_id=973"
+			"worldsavestr": "https://catsudon.net/wp-json/my-api/v1/save-data?load_id=973"
 		},
 		{
 			"name": "ファミレス",
-			"saveurl": "https://catsudon.net/wp-json/my-api/v1/save-data?load_id=974"
+			"worldsavestr": "https://catsudon.net/wp-json/my-api/v1/save-data?load_id=974"
 		},
 		{
 			"name": "冒険者の宿",
-			"saveurl": ""
+			"worldsavestr": ""
 		},
 		{
 			"name": "ファンタジー村(Small)",
-			"saveurl": ""
+			"worldsavestr": ""
 		},
 		{
 			"name": "ファンタジー村(Big)",
-			"saveurl": ""
+			"worldsavestr": ""
 		},
 		{
 			"name": "ワンルームマンション",
-			"saveurl": ""
+			"worldsavestr": ""
 		},
 		{
 			"name": "公園",
-			"saveurl": ""
+			"worldsavestr": ""
 		},
 		{
 			"name": "駅（改札のみ）",
-			"saveurl": ""
+			"worldsavestr": ""
 		},
 		{
 			"name": "コテージ",
-			"saveurl": ""
+			"worldsavestr": ""
 		},
 		{
 			"name": "シアター",
-			"saveurl": ""
+			"worldsavestr": ""
 		},
 		{
 			"name": "神社",
-			"saveurl": ""
+			"worldsavestr": ""
 		},
 		{
 			"name": "参道",
-			"saveurl": ""
+			"worldsavestr": ""
 		},
 		{
 			"name": "教室",
-			"saveurl": ""
+			"worldsavestr": ""
 		},
 		{
 			"name": "浮遊島",
-			"saveurl": ""
+			"worldsavestr": ""
 		},
 		{
 			"name": "大衆居酒屋",
-			"saveurl": ""
+			"worldsavestr": ""
 		},
 		{
 			"name": "列車",
-			"saveurl": ""
+			"worldsavestr": ""
 		},
 		{
 			"name": "ホテルルーム",
-			"saveurl": ""
+			"worldsavestr": ""
 		},
 		{
 			"name": "現代オフィス",
-			"saveurl": ""
+			"worldsavestr": ""
 		},
 		{
 			"name": "小さな駅",
-			"saveurl": ""
+			"worldsavestr": ""
 		},
 		{
 			"name": "探偵事務所",
-			"saveurl": ""
+			"worldsavestr": ""
 		},
 		{
 			"name": "山と森",
-			"saveurl": ""
+			"worldsavestr": ""
 		},
 		{
 			"name": "高台の公園",
-			"saveurl": ""
+			"worldsavestr": ""
 		},
 		{
 			"name": "一軒家",
-			"saveurl": ""
+			"worldsavestr": ""
 		},
 		{
 			"name": "現代町（なんでもあり）",
-			"saveurl": ""
+			"worldsavestr": ""
 		},
 		{
 			"name": "病院",
-			"saveurl": ""
+			"worldsavestr": ""
 		}
 	]
 }
