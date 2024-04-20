@@ -107,12 +107,121 @@
 			"worldsavestr": "https://catsudon.net/wp-json/my-api/v1/save-data?load_id=994"
 		},
 		{
-			"name": "現代町（なんでもあり）",
-			"worldsavestr": "https://catsudon.net/wp-json/my-api/v1/save-data?load_id=995"
+			"name": "現代町Ver.2",
+			"worldsavestr": "https://catsudon.net/wp-json/my-api/v1/save-data?load_id=1442"
 		},
+		{
+			"name": "現代町(オーヴァードアカデミア(仮))",
+			"worldsavestr": "https://catsudon.net/wp-json/my-api/v1/save-data?load_id=1457"
+		},
+		
 		{
 			"name": "病院",
 			"worldsavestr": "https://catsudon.net/wp-json/my-api/v1/save-data?load_id=996"
+		},
+		{
+			"name": "図書館",
+			"worldsavestr": "https://catsudon.net/wp-json/my-api/v1/save-data?load_id=1001"
+		},
+		{
+			"name": "無人島",
+			"worldsavestr": "https://catsudon.net/wp-json/my-api/v1/save-data?load_id=1002"
+		},
+		{
+			"name": "運河の街",
+			"worldsavestr": "https://catsudon.net/wp-json/my-api/v1/save-data?load_id=1294"
+		},
+		{
+			"name": "山小屋",
+			"worldsavestr": "https://catsudon.net/wp-json/my-api/v1/save-data?load_id=1326"
+		},
+		{
+			"name": "カツドン_ラジオ放送室",
+			"worldsavestr": "https://catsudon.net/wp-json/my-api/v1/save-data?load_id=1356"
+		},
+		{
+			"name": "ビジネスホテル（地下あり）",
+			"worldsavestr": "https://catsudon.net/wp-json/my-api/v1/save-data?load_id=1354"
+		},
+		{
+			"name": "研究所（1フロア）",
+			"worldsavestr": "https://catsudon.net/wp-json/my-api/v1/save-data?load_id=1426"
+		},
+		{
+			"name": "カフェ（オープンデッキ付き）",
+			"worldsavestr": "https://catsudon.net/wp-json/my-api/v1/save-data?load_id=1428"
+		},
+		{
+			"name": "オフィス（1フロア）",
+			"worldsavestr": "https://catsudon.net/wp-json/my-api/v1/save-data?load_id=1430"
+		},
+		{
+			"name": "廃ビル（5階建て）",
+			"worldsavestr": "https://catsudon.net/wp-json/my-api/v1/save-data?load_id=1432"
+		},
+		{
+			"name": "廃ビル（1フロア）",
+			"worldsavestr": "https://catsudon.net/wp-json/my-api/v1/save-data?load_id=1435"
+		},
+		{
+			"name": "学校外観（大学・私立高校など）",
+			"worldsavestr": "https://catsudon.net/wp-json/my-api/v1/save-data?load_id=1438"
+		},
+		{
+			"name": "商店街",
+			"worldsavestr": "https://catsudon.net/wp-json/my-api/v1/save-data?load_id=1440"
+		},
+		{
+			"name": "ジオラマ街道の襲撃",
+			"worldsavestr": "https://catsudon.net/wp-json/my-api/v1/save-data?load_id=1531"
+		},
+		{
+			"name": "ホワイトハイツ",
+			"worldsavestr": "https://catsudon.net/wp-json/my-api/v1/save-data?load_id=1756"
+		},
+		{
+			"name": "書割マップ【現代町】",
+			"worldsavestr": "https://catsudon.net/wp-json/my-api/v1/save-data?load_id=3445"
+		},
+		{
+			"name": "【ワールドコンテスト受賞作】あしんて作",
+			"worldsavestr": "https://catsudon.net/wp-json/my-api/v1/save-data?load_id=3481"
+		},
+		{
+			"name": "【ワールドコンテスト受賞作】どくろん作１",
+			"worldsavestr": "https://catsudon.net/wp-json/my-api/v1/save-data?load_id=3480"
+		},
+		{
+			"name": "【ワールドコンテスト受賞作】らぎまる作",
+			"worldsavestr": "https://catsudon.net/wp-json/my-api/v1/save-data?load_id=3482"
+		},
+		{
+			"name": "【ワールドコンテストノミネート作】どくろん作２",
+			"worldsavestr": "https://catsudon.net/wp-json/my-api/v1/save-data?load_id=3490"
+		},
+		{
+			"name": "【ワールドコンテストノミネート作】r13th作",
+			"worldsavestr": "https://catsudon.net/wp-json/my-api/v1/save-data?load_id=3483"
+		},
+		{
+			"name": "【ワールドコンテストノミネート作】ハニハ作",
+			"worldsavestr": "https://catsudon.net/wp-json/my-api/v1/save-data?load_id=3484"
+		},
+		{
+			"name": "【ワールドコンテストノミネート作】みごはっく作",
+			"worldsavestr": "https://catsudon.net/wp-json/my-api/v1/save-data?load_id=3485"
+		},
+		{
+			"name": "【ワールドコンテストノミネート作】伊藤乃蒼作１",
+			"worldsavestr": "https://catsudon.net/wp-json/my-api/v1/save-data?load_id=3486"
+		},
+		{
+			"name": "【ワールドコンテストノミネート作】伊藤乃蒼２作",
+			"worldsavestr": "https://catsudon.net/wp-json/my-api/v1/save-data?load_id=3488"
+		},
+		{
+			"name": "【ワールドコンテストノミネート作】joni_momonga作",
+			"worldsavestr": "https://catsudon.net/wp-json/my-api/v1/save-data?load_id=3487"
 		}
 	]
 }
