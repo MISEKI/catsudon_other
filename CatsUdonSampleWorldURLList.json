@@ -4,23 +4,23 @@
 	"worlds": [
 		{
 			"name": "Bar",
-			"saveurl": ""
+			"saveurl": "https://catsudon.net/wp-json/my-api/v1/save-data?load_id=967"
 		},
 		{
 			"name": "Neo Bar",
-			"saveurl": ""
+			"saveurl": "https://catsudon.net/wp-json/my-api/v1/save-data?load_id=970"
 		},
 		{
 			"name": "大聖堂",
-			"saveurl": ""
+			"saveurl": "https://catsudon.net/wp-json/my-api/v1/save-data?load_id=972"
 		},
 		{
 			"name": "コロセウム",
-			"saveurl": ""
+			"saveurl": "https://catsudon.net/wp-json/my-api/v1/save-data?load_id=973"
 		},
 		{
 			"name": "ファミレス",
-			"saveurl": ""
+			"saveurl": "https://catsudon.net/wp-json/my-api/v1/save-data?load_id=974"
 		},
 		{
 			"name": "冒険者の宿",
