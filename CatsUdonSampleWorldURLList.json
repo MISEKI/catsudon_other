@@ -222,6 +222,10 @@
 		{
 			"name": "【ワールドコンテストノミネート作】joni_momonga作",
 			"worldsavestr": "https://catsudon.net/wp-json/my-api/v1/save-data?load_id=3487"
+		},
+		{
+			"name": "黒葉ビルディング",
+			"worldsavestr": "https://catsudon.net/wp-json/my-api/v1/save-data?load_id=3724"
 		}
 	]
 }
