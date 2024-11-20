@@ -1,0 +1,18 @@
+{
+	"kind": "SampleWorldList",
+	"index": 0,
+	"worlds": [
+		{
+			"name": "シーン１",
+			"worldsavestr": ""
+		},
+		{
+			"name": "シーン２",
+			"worldsavestr": ""
+		},
+		{
+			"name": "シーン３",
+			"worldsavestr": ""
+		}
+	]
+}
